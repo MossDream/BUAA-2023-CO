@@ -10,6 +10,13 @@
 * 所有参考代码均能通过**所有测试点**,但由于本人仍然在校学习，水平有限请见谅！  🎇
 * **如有疑问欢迎留言！**  🥳
 
+## 简要指导🔔
+**`.circ`后缀文件用`logisim`软件打开，是参考的电路图文件**    
+
+**`.v`后缀文件用`ISE`软件打开，是`ISE`软件的主要`Verilog`文件**  
+
+**`.asm`后缀文件用`Mars`软件打开，是`MIPS`汇编程序文件**  
+
 ## 索引🧾
 * **[Pre课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/Pre)**  
 * **[P0课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P0)**   
