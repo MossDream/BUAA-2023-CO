@@ -15,8 +15,8 @@
 
 **`.v`后缀文件用`ISE`软件打开，是`ISE`软件的主要`Verilog`文件**  
 
-**`.asm`后缀文件用`Mars`软件打开，是`MIPS`汇编程序文件**  
-
+**`.asm`后缀文件用`Mars`软件打开，是`MIPS`汇编程序文件**  （部分`.asm`文件有相应同名的`.c`文件帮助理解）
+。
 ## 索引🧾
 * **[Pre课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/Pre)**  
 * **[P0课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P0)**   
