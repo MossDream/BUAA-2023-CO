@@ -42,9 +42,9 @@ module MEM_WB (
   always @(posedge clk) begin
     if (reset) begin
       nInstr_W  <= 0;
-      pc_W      <= 0;
-      pcPlus4_W <= 0;
-      pcPlus8_W <= 0;
+      pc_W      <= 32'h00003000;
+      pcPlus4_W <= 32'h00003004;
+      pcPlus8_W <= 32'h00003008;
       rtData_W  <= 0;
       aluRes_W  <= 0;
       extImm_W  <= 0;

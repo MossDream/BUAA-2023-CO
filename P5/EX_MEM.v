@@ -40,9 +40,9 @@ module EX_MEM (
   always @(posedge clk) begin
     if (reset) begin
       nInstr_M  <= 0;
-      pc_M      <= 0;
-      pcPlus4_M <= 0;
-      pcPlus8_M <= 0;
+      pc_M      <= 32'h00003000;
+      pcPlus4_M <= 32'h00003004;
+      pcPlus8_M <= 32'h00003008;
       rtData_M  <= 0;
       aluRes_M  <= 0;
       extImm_M  <= 0;
