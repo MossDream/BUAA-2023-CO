@@ -26,6 +26,8 @@
 * **[P3课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P3)**
 * **[P4课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P4)**
 * **[P5课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P5)**
+* **[P6课下](https://github.com/MossDream/BUAA-2023-CO/blob/main/P6)**
+
 
 
 
